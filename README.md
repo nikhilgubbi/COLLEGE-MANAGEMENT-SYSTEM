@@ -30,3 +30,53 @@ STEP 3-Create the database as **a** in xampp and import the ***a.sql*** file int
 STEP 4-Once the localhost is started type *localhost* in the web browser whether the localhost is working or not. Once its checked type localhost/***filename***/index.php
 
 The username and password is as same as in **a.sql** file.
+
+# SCREENSHOTS
+
+ *Main Page*
+
+![MainPage](https://github.com/nikhilgubbi/COLLEGE-MANAGEMENT-SYSTEM/blob/master/SJCIT-MANAGEMENT-SYSTEM/SJCIT%20MANAGEMENT%20SYSTEM%20REPORT/SNAPS/MAIN%20PAGE.png)
+
+ *Main Table*
+
+![ScreenShot](https://github.com/nikhilgubbi/COLLEGE-MANAGEMENT-SYSTEM/blob/master/SJCIT-MANAGEMENT-SYSTEM/SJCIT%20MANAGEMENT%20SYSTEM%20REPORT/SNAPS/MAIN%20TABLE.png)
+
+ *UsersEntry*
+
+![ScreenShot](https://github.com/nikhilgubbi/COLLEGE-MANAGEMENT-SYSTEM/blob/master/SJCIT-MANAGEMENT-SYSTEM/SJCIT%20MANAGEMENT%20SYSTEM%20REPORT/SNAPS/USERS%20ENTRY.png)
+
+ *Teachers Entry*
+
+![ScreenShot](https://github.com/nikhilgubbi/COLLEGE-MANAGEMENT-SYSTEM/blob/master/SJCIT-MANAGEMENT-SYSTEM/SJCIT%20MANAGEMENT%20SYSTEM%20REPORT/SNAPS/TEACHERS%20ENTRY.png)
+
+ *Students Entry*
+
+![ScreenShot](https://github.com/nikhilgubbi/COLLEGE-MANAGEMENT-SYSTEM/blob/master/SJCIT-MANAGEMENT-SYSTEM/SJCIT%20MANAGEMENT%20SYSTEM%20REPORT/SNAPS/SUBJECTS%20ENTRY.png)
+
+ *Subjects Entry*
+
+![ScreenShot](https://github.com/nikhilgubbi/COLLEGE-MANAGEMENT-SYSTEM/blob/master/SJCIT-MANAGEMENT-SYSTEM/SJCIT%20MANAGEMENT%20SYSTEM%20REPORT/SNAPS/SUBJECTS%20ENTRY.png)
+
+ *Scores Entry* 
+
+![ScreenShot](https://github.com/nikhilgubbi/COLLEGE-MANAGEMENT-SYSTEM/blob/master/SJCIT-MANAGEMENT-SYSTEM/SJCIT%20MANAGEMENT%20SYSTEM%20REPORT/SNAPS/SCORES%20ENTRY.png)
+
+ *View Users*
+
+![ScreenShot](https://github.com/nikhilgubbi/COLLEGE-MANAGEMENT-SYSTEM/blob/master/SJCIT-MANAGEMENT-SYSTEM/SJCIT%20MANAGEMENT%20SYSTEM%20REPORT/SNAPS/VIEW%20USERS.png)
+
+ *View Teachers*
+
+![ScreenShot](https://github.com/nikhilgubbi/COLLEGE-MANAGEMENT-SYSTEM/blob/master/SJCIT-MANAGEMENT-SYSTEM/SJCIT%20MANAGEMENT%20SYSTEM%20REPORT/SNAPS/VIEW%20TEACHERS.png)
+
+ *View Students*
+
+![ScreenShot](https://github.com/nikhilgubbi/COLLEGE-MANAGEMENT-SYSTEM/blob/master/SJCIT-MANAGEMENT-SYSTEM/SJCIT%20MANAGEMENT%20SYSTEM%20REPORT/SNAPS/VIEW%20STUDENTS.png)
+
+ *View Subjects*
+
+![ScreenShot](https://github.com/nikhilgubbi/COLLEGE-MANAGEMENT-SYSTEM/blob/master/SJCIT-MANAGEMENT-SYSTEM/SJCIT%20MANAGEMENT%20SYSTEM%20REPORT/SNAPS/VIEW%20SUBJECTS.png)
+
+*View Scores*
+
+![ScreenShot](https://github.com/nikhilgubbi/COLLEGE-MANAGEMENT-SYSTEM/blob/master/SJCIT-MANAGEMENT-SYSTEM/SJCIT%20MANAGEMENT%20SYSTEM%20REPORT/SNAPS/VIEW%20SCORES.png)
